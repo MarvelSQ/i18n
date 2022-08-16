@@ -1,0 +1,6 @@
+# dependencies
+node_modules
+# turborepo
+.turbo
+# generated files
+dist
